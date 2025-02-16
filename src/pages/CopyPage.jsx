@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { useSearchParams } from "react-router-dom";
+import './CopyPage.css'; // CSS 파일 import
 
 const CopyPage = () => {
   const [searchParams] = useSearchParams();
