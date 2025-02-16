@@ -1,0 +1,10 @@
+
+body {
+  background-color: #f0f0f0;
+}
+
+.qr-code-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+}
